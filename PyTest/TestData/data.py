@@ -1,0 +1,7 @@
+url = "https://www.letskodeit.com/practice"
+text = "Welcome!"
+wrong_email = "abcd@email.com"
+wrong_password = "12345678"
+file_name = "live_coding_text.txt"
+google_url = "https://www.google.com"
+search_text = "Selenium Automation workshop done!"
