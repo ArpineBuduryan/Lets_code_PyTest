@@ -13,7 +13,7 @@ def get_driver():
     options.add_argument('--window-size=1920,1080')
     driver = webdriver.Chrome(options=options)
 
-    Open a visible browser window and maximize it
+    #Open a visible browser window and maximize it
    
     yield driver
     driver.quit()
